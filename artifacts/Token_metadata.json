@@ -802,11 +802,11 @@
 			]
 		},
 		"token.sol": {
-			"keccak256": "0x7c1c7418898d30c36ec3eccc2c9d6d6285c039f9fde44454d5c6efdec07a16b8",
+			"keccak256": "0x86e7e487ef0a7740703b27555344ff1c1da81948223b8efe30da8d643ced518b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2770d5bd55b74f7935fa74f12fbd730a0567184f2cb166c7b1264de380ea3538",
-				"dweb:/ipfs/QmfSnLEReCWoqmTttsAZvk9hnZZDFFDvdENKy4sXPBMvTP"
+				"bzz-raw://04bb264b63b513ce9f5e3cea5fbb0abbb1e1386d3145719ebe1dc23814e7d59d",
+				"dweb:/ipfs/QmbCWoCe9qSeuXJiNZXMF23oEFeioEyHw6n2WDy7Pf6wKF"
 			]
 		}
 	},
